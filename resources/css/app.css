@@ -1,0 +1,14 @@
+@import 'bootstrap';
+@import 'style.css';
+@import 'register.css';
+@import 'elisa.css';
+@import "/node_modules/flag-icons/css/flag-icons.min.css";
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+
+@import '@fortawesome/fontawesome-free/css/fontawesome.css';
+@import '@fortawesome/fontawesome-free/css/regular.css';
+@import '@fortawesome/fontawesome-free/css/solid.css';
+@import '@fortawesome/fontawesome-free/css/brands.css';
+
